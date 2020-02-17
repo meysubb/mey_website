@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Sports Analytics
-- Data Science
-- Data Visulization 
+- Sports analytics
+- Data science
+- Data visulization 
 - All things nuclear 
 - South Asian history
 
